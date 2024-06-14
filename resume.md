@@ -4,12 +4,10 @@
 
 |key|value|
 |---|---|
-| Name | Tanabe Ayaka |
-| Twitter | [@piyo_sleeping](https://twitter.com/piyo_sleeping) 
-| GitHub | [@tanapiyo](https://github.com/tanapiyo) |
-| Zenn | [@xxpiyomaruxx](https://zenn.dev/xxpiyomaruxx) |
-| Qiita | [@piyo_sleepy](https://qiita.com/piyo_sleepy) |
-| Speaker Deck | [tanapiyo](https://speakerdeck.com/tanapiyo) |
+| Name | Fuyuki Matsubara |
+| Twitter | [@fuyuki_m_](https://x.com/fuyuki_m_) 
+| GitHub | [@Fykqnt](https://github.com/Fykqnt) |
+| LinkedIn | [Fuyuki Matsubara](https://www.linkedin.com/in/fuyuki-matsubara-0a64301ab/) |
 
 ## 概要
 
