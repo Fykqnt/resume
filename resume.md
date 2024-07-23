@@ -5,7 +5,8 @@
 |key|value|
 |---|---|
 | Name | Fuyuki Matsubara |
-| X | [@fuyuki_m_](https://x.com/fuyuki_m_) 
+| X | [@fuyuki_m_](https://x.com/fuyuki_m_) |
+|LinkedIn|[Fuyuki Matsubara](https://www.linkedin.com/in/fuyuki-matsubara-0a64301ab/)|
 | GitHub | [@fykqnt](https://github.com/fykqnt) |
 
 ## Summary
