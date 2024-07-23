@@ -74,7 +74,9 @@ Developed "BlitzMe", a social media app specializing in humorous content.
 
 ## Education
 
-University of Tokyo School of Engineering (M.Eng)
+Master's Degree, The University of Tokyo, School of Engineering (Apr2019 ~ Mar2021)
+
+Bachelor's Degree, The University of Tokyo, Interdisciplinary Science (Apr2014 ~ Mar2019)
 
 ### Expertise
 Deep Learning, Human-Computer Interaction
