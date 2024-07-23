@@ -34,7 +34,7 @@ Achievements include:
 
 - **Academic Research**
   - Specializes in the application of deep learning.
-  - Presented the BlitzMe app at a top conference as a demonstration.
+  - Presented the BlitzMe app at an academic conference(demo track)
 
 - **Founder of a Tech Startup**
   - Capable of creating business plans, sales, recruiting, product strategy, organizational branding, and people management.
@@ -82,11 +82,11 @@ Deep Learning, Human-Computer Interaction
 ### Programming Languages
 
 #### Dart
-- Worked 2 years starting in 2022.
+- +2 years experience
 - Experience in building an MVP for a video streaming service app using Flutter.
 
 #### Python
-- 6 years since 2018.
+- +6 years experience
 - Numerous experiences in reproducing ML-related experiments for time-series prediction and data visualization.
 
 #### HTML and CSS
