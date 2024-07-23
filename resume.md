@@ -19,7 +19,7 @@ Achievements include:
 - Project management experience as a founder of a tech startup.
 - Designing and implementing a recommendation engine for consumer app.
 - Writing and presenting papers at top international AI conferences.
-- Writing and presenting papers at top international Human Computer Interaction conferences.
+- Writing and presenting papers at top international Human-Computer Interaction conferences.
 
 ### Skills
 - **PO/PdM**
@@ -102,14 +102,14 @@ Recently focused on PM, organization building, and product development.
 - Proactivity
 
 ### Character
-- Sociable(People often calls me SpongeBob)
+- Sociable(People often call me SpongeBob)
 
 ### Publications
 - [Analysis of Value and Momentum Factors in Japanese Government Bond and Stock Index Using Machine Learning](https://www.jstage.jst.go.jp/article/jsaisigtwo/2021/FIN-026/2021_69/_article/-char/ja/)
 - [Stock Price Prediction Using Limit Order Book Data with Data Stratification and Multi-Phase Pre-Training](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1K4ES205/_article/-char/ja/)
 
 ### Awards
-- Good Design Award
+- Good Design Award(First Screening)
 
 ### Talks
 
