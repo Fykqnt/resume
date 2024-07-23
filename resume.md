@@ -15,7 +15,7 @@ With over 3 years of experience as a machine learning engineer and over 2 years 
 
 Achievements include:
 
-- Reading, implementing, and backtesting financial informatics papers for hedge funds and investment banks.
+- Reading, implementing, and backtesting academic papers, working at hedge fund and investment bank.
 - Project management experience as a founder of a seed startup.
 - Designing a recommendation engine using Google Cloud.
 - Writing and presenting papers at top international AI conferences.
