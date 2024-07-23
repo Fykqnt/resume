@@ -45,8 +45,8 @@ Achievements include:
 Developed data pipelines and implemented predictive Machine Learning models for automating options market-making.
 
 #### Environment
-- Team Size: Solo
-- Role: ML Engineer (Job Title: Equity Derivatives Trader)
+- Team Size:　~10
+- Role:　Equity Derivatives Trader
 - Technologies Used:
   - Frameworks: TensorFlow, Pandas, Bloomberg API
 
