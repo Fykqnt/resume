@@ -77,12 +77,12 @@ Developed "BlitzMe", a social media app specializing in humorous content.
 University of Tokyo School of Engineering (M.Eng)
 
 ### Expertise
-Recently focused on PM, organization building, and product development.
+Deep Learning, Human-Computer Interaction
 
 ### Programming Languages
 
 #### Dart
-- Worked extensively with it for 2 years starting in 2022.
+- Worked 2 years starting in 2022.
 - Experience in building an MVP for a video streaming service app using Flutter.
 
 #### Python
