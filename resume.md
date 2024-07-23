@@ -1,124 +1,119 @@
-# 職務経歴書
+# Resume
 
-## 個人データ
+## Personal Data
 
-|key|value|
-|---|---|
+| Key | Value |
+| --- | --- |
 | Name | Fuyuki Matsubara |
 | X | [@fuyuki_m_](https://x.com/fuyuki_m_) |
-|LinkedIn|[Fuyuki Matsubara](https://www.linkedin.com/in/fuyuki-matsubara-0a64301ab/)|
+| LinkedIn | [Fuyuki Matsubara](https://www.linkedin.com/in/fuyuki-matsubara-0a64301ab/) |
 | GitHub | [@fykqnt](https://github.com/fykqnt) |
 
 ## Summary
 
-機械学習エンジニア3年強、CEO兼プロダクトオーナーとして2年強の実務経験があり、要件定義から設計などの上流工程やグローバルチームのマネジメントを経験。
+With over 3 years of experience as a machine learning engineer and over 2 years as a CEO and product owner, I have expertise in upstream processes such as requirements definition and design, as well as managing global teams.
 
-実績としては以下：
+Achievements include:
 
-- ヘッジファンド、投資銀行にて金融情報学系の論文を読み解き、実装・バックテストまで行う
-- シードスタートアップ創業者としてのPM経験
-- Google Cloudを用いた推薦エンジンの設計
-- AI系トップ国際会議での論文執筆、発表
-- HCI系トップ国際会議での論文執筆、発表
+- Reading, implementing, and backtesting financial informatics papers for hedge funds and investment banks.
+- Project management experience as a founder of a seed startup.
+- Designing a recommendation engine using Google Cloud.
+- Writing and presenting papers at top international AI conferences.
+- Writing and presenting papers at top international HCI conferences.
 
 ### Skills
-- PO/PdM
-  - C向けソーシャルアプリの要件定義、開発組織作り・プロジェクトリード・PM
-  - 10名以上の大規模チームでエンジニア・デザイナーチームと連携をとりつつ要件を固め、設計・実装・プロダクトローンチ・プロダクトグロース
-- Software Development
-  - 年以上のエンジニア経験あり。インフラ、フロントエンド、バックエンドすべてそれぞれ5年以上の経験あり
-  - モバイル（Flutter）やAI系（Python、PyTorch）、データ分析も可能
-  - 開発リード経験
-  - 自然言語処理を用いたマーケティングコンサル、コンピュータビジョンアプリ、推薦システムの構築の経験あり
-- Acacdemic Research
-  - 外資系投資銀行海外オフィスに新卒でトレーダーとして入社
-  - 深層学習の応用が専門
-- Founder of a tech startup
-  - 事業計画書作成、営業、採用、プロダクト戦略や組織ブランディング、ピープルマネジメントなどなどひととおりできるように
+- **PO/PdM**
+  - Defined requirements for consumer social apps, built development organizations, led projects, and managed product launches and growth.
+  - Collaborated with large teams of over 10 members, including engineers and designers, to solidify requirements, design, implement, launch, and grow products.
+
+- **Software Development**
+  - Over 5 years of experience in infrastructure, frontend, and backend development.
+  - Proficient in mobile development (Flutter), AI (Python, Tensorflow), and data analysis.
+  - Experience in leading Software development teams.
+  - Experience in building marketing consultancy using computer vision applications, and personalized recommendation systems.
+
+- **Academic Research**
+  - Joined a foreign investment bank's overseas office as a new graduate trader.
+  - Specializes in the application of deep learning.
+
+- **Founder of a Tech Startup**
+  - Capable of creating business plans, sales, recruiting, product strategy, organizational branding, and people management.
 
 ## Occupation
 
+### Equity Derivatives Trader
+Developed data pipelines and implemented predictive Machine Learning models for automating options market-making.
 
-#### Equity Derivatives Trader
-オプションマーケットメイキングbot開発のためのデータパイプライン構築、予測モデル実装、運用まで行う
+#### Environment
+- Team Size: Solo
+- Role: ML Engineer (Job Title: Equity Derivatives Trader)
+- Technologies Used:
+  - Frameworks: TensorFlow, Pandas, Bloomberg API
 
-##### Env
-- チーム規模: 単独
-- 役割: ML Engineer(Job Title:Equity Derivatives Trader)
-- 使用技術:
-  - フレームワークなど: Tensorflow, Pandas, Bloomberg API
+#### Key Accomplishments
+- Requirements definition
+- Data cleansing
+- Data pipeline construction
+- Reduced market-making operations workload by 80%
 
-##### Key Accomplishments
-- 要件定義
-- データクレンジング
-- データパイプライン構築
-- マーケットメイキング業務工数８割削減
+### Founder & CEO of Arrowheads Inc.
+Developed "BlitzMe", a social media app specializing in humorous content.
 
-#### Founder & CEO of Arrowheads Inc.
-C向けソーシャル動画アプリの開発
+#### Environment
+- Team Size: About 5
+- Role: PO/PdM
+- Technologies Used:
+  - Frameworks: Flutter, Django, Google Cloud
 
-##### Env
-- チーム規模: 5人程度
-- 役割: PO/PdM
-- 使用技術:
-  - フレームワークなど: Flutter, Firebase, Django, Google Cloud
-
-##### Key Accomplishments
-- 要件定義
-- チーム人員の調達
-- 進捗管理やチームマネジメント
-- Biz側との要件調整
-
+#### Key Accomplishments
+- Requirements definition
+- Recruiting Talents
+- Progress management and team leadership
+- Coordination of requirements with business side
 
 ## Education
 
-University of Tokyo School of Engineering(M.Eng)
-
+University of Tokyo School of Engineering (M.Eng)
 
 ### Expertise
-最近はPMや組織作り、プロダクト作り
+Recently focused on PM, organization building, and product development.
 
-### Programming Language
+### Programming Languages
 
 #### Dart
-- 本格的に触ったのは2022年〜の2年間
-- Flutterで動画配信サービスアプリのMVP構築経験あり
+- Worked extensively with it for 2 years starting in 2022.
+- Experience in building an MVP for a video streaming service app using Flutter.
 
 #### Python
-- 2018年〜6年間
-- ML系論文の再現実験経験多数
+- 6 years since 2018.
+- Numerous experiences in reproducing ML-related experiments for time-series prediction and data visualization.
 
-#### HTMLやCSS
-
+#### HTML and CSS
 
 ### Services
 
-#### 
-- 2022年〜利用中
-- Google Cloud
+#### Google Cloud
+- In use since 2022.
 
-
-
-## About myself
+## About Myself
 
 ### Strength
-- 知的好奇心
-- 行動力
-
+- Intellectual curiosity
+- Proactivity
 
 ### Character
-- 気さく
-
+- Sociable(People often calls me SpongeBob)
 
 ### Publications
-- https://www.jstage.jst.go.jp/article/jsaisigtwo/2021/FIN-026/2021_69/_article/-char/ja/
-- https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1K4ES205/_article/-char/ja/
+- [Analysis of Value and Momentum Factors in Japanese Government Bond and Stock Index Using Machine Learning](https://www.jstage.jst.go.jp/article/jsaisigtwo/2021/FIN-026/2021_69/_article/-char/ja/)
+- [Stock Price Prediction Using Limit Order Book Data with Data Stratification and Multi-Phase Pre-Training](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1K4ES205/_article/-char/ja/)
 
 ### Awards
-- Good Design賞
+- Good Design Award
 
 ### Talks
-| 登壇タイトル | イベント |
-|---|---|
-| 「ヒューマンコンピューターインタクションからみる笑い」 | 第30回日本笑い学会全国大会 | 
-| ヒューマンコンピュータインタラクション | 関東学院大学ゲスト講師 |
+
+| Title | Event |
+| --- | --- |
+| Analysis of Smiling from Perspective of Human-Computer Interaction | 30th Annual Conference of the Japan Society for Laughter and Humor Studies @Kansai University |
+| Human-Computer Interaction | Guest Lecturer at Kanto Gakuin University |
