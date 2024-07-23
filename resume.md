@@ -11,15 +11,15 @@
 
 ## Summary
 
-With over 3 years of experience as a machine learning engineer and over 2 years as a CEO and product owner, I have expertise in upstream processes such as requirements definition and design, as well as managing global teams.
+With over 3 years of experience as a machine learning engineer and over 2 years as a CEO and product owner, I have expertise in upstream processes such as requirements definition and design of software product, as well as building and managing global teams.
 
 Achievements include:
 
 - Reading, implementing, and backtesting academic papers, working at hedge fund and investment bank.
-- Project management experience as a founder of a seed startup.
-- Designing a recommendation engine using Google Cloud.
+- Project management experience as a founder of a tech startup.
+- Designing and implementing a recommendation engine for consumer app.
 - Writing and presenting papers at top international AI conferences.
-- Writing and presenting papers at top international HCI conferences.
+- Writing and presenting papers at top international Human Computer Interaction conferences.
 
 ### Skills
 - **PO/PdM**
@@ -33,15 +33,15 @@ Achievements include:
   - Experience in building marketing consultancy using computer vision applications, and personalized recommendation systems.
 
 - **Academic Research**
-  - Joined a foreign investment bank's overseas office as a new graduate trader.
   - Specializes in the application of deep learning.
+  - Presented the BlitzMe app at a top conference as a demonstration.
 
 - **Founder of a Tech Startup**
   - Capable of creating business plans, sales, recruiting, product strategy, organizational branding, and people management.
 
-## Occupation
+## Job History
 
-### Equity Derivatives Trader
+### Equity Derivatives Trader(Mar2021 ~ Jul2022)
 Developed data pipelines and implemented predictive Machine Learning models for automating options market-making.
 
 #### Environment
@@ -56,7 +56,7 @@ Developed data pipelines and implemented predictive Machine Learning models for 
 - Data pipeline construction
 - Reduced market-making operations workload by 80%
 
-### Founder & CEO of Arrowheads Inc.
+### Founder & CEO of Arrowheads Inc.(Jul2022 ~ Present)
 Developed "BlitzMe", a social media app specializing in humorous content.
 
 #### Environment
