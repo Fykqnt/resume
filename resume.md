@@ -67,6 +67,7 @@ Developed "BlitzMe", a social media app specializing in humorous content.
 
 #### Key Accomplishments
 - Requirements definition
+- User Experience Research
 - Recruiting Talents
 - Progress management and team leadership
 - Coordination of requirements with business side
