@@ -11,7 +11,7 @@
 
 ## Summary
 
-With over 3 years of experience as a machine learning engineer and over 2 years as a CEO and product owner, I have expertise in upstream processes such as requirements definition and design of software product, as well as building and managing global teams.
+With over 3 years of experience as a machine learning engineer and over 2 years as a CEO and product owner, I have expertise in requirements definition and design of software product, user experience research as well as building and managing global teams.
 
 Achievements include:
 
