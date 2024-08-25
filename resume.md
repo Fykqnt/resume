@@ -112,7 +112,6 @@ Deep Learning, Human-Computer Interaction
 - [Stock Price Prediction Using Limit Order Book Data with Data Stratification and Multi-Phase Pre-Training](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1K4ES205/_article/-char/ja/)
 
 ### Awards
-- Good Design Award(First Screening)
 
 ### Talks
 
