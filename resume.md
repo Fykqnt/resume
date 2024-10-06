@@ -121,4 +121,4 @@ Deep Learning, Human-Computer Interaction
 | --- | --- |
 | Analysis of Smiling from Perspective of Human-Computer Interaction | 30th Annual Conference of the Japan Society for Laughter and Humor Studies @Kansai University |
 | Human-Computer Interaction | Guest Lecturer @Kanto Gakuin University |
-| Creation of Multimodal Dataset Combining Human Computation and Collective Intelligence | Machine Learning in 15minutes |
+| Creation of Multimodal Dataset Combining Human Computation and Collective Intelligence | Machine Learning in 15minutes @Online|
