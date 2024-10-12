@@ -104,10 +104,8 @@ Deep Learning, Human-Computer Interaction
 - Intellectual curiosity
 - Proactivity
 
-### Character
-- Sociable(People often call me SpongeBob)
-
-### Academic Research
+  
+### Publications
 - BlitzMe: a Social Media Platform Combining Smile Recognition and Human Computation for Positive Mood Enhancement(AAAI HCOMP 2024 Demonstration Track)
 - BlitzMe: Integrating Smile Recognition in Mobile Social Media Engagement(ACM Multimedia 2024 Industry Demonstration Track)
 - [Analysis of Value and Momentum Factors in Japanese Government Bond and Stock Index Using Machine Learning(JSAI 2020)](https://www.jstage.jst.go.jp/article/jsaisigtwo/2021/FIN-026/2021_69/_article/-char/ja/)
