@@ -111,7 +111,7 @@ Deep Learning, Human-Computer Interaction
 
 ### Awards
 AAAI HCOMP2024 Best Demonstration Paper Award
-Issued by The Twelfth AAAI Conference on Human Computation and Crowdsourcing · Oct 2024
+(The Twelfth AAAI Conference on Human Computation and Crowdsourcing · Oct 2024)
 
 ### Talks
 
