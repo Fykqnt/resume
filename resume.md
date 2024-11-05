@@ -18,8 +18,7 @@ Achievements include:
 - Implementing and backtesting academic papers, working at hedge fund and investment bank.
 - Product owner of [BlitzMe](https://blitzme-app.com/en/) as a Founder & CEO of a tech startup.
 - Designing and implementing a recommendation engine for consumer app.
-- Writing and presenting papers at top international AI conferences.
-- Writing and presenting papers at top international Human-Computer Interaction conferences.
+- Writing and presenting demonstration papers at international Human-Computer Interaction conferences.
 
 ### Skills
 - **PO/PdM**
@@ -106,12 +105,13 @@ Deep Learning, Human-Computer Interaction
 
   
 ### Publications
-- BlitzMe: a Social Media Platform Combining Smile Recognition and Human Computation for Positive Mood Enhancement(AAAI HCOMP 2024 Demonstration Track)
-- BlitzMe: Integrating Smile Recognition in Mobile Social Media Engagement(ACM Multimedia 2024 Industry Demonstration Track)
+- [BlitzMe: a Social Media Platform Combining Smile Recognition and Human Computation for Positive Mood Enhancement(AAAI HCOMP2024 Demonstration Track, Best Demonstration Paper Award)](https://www.humancomputation.com/assets/wip_2024/HCOMP_24_WIP_2.pdf)
 - [Analysis of Value and Momentum Factors in Japanese Government Bond and Stock Index Using Machine Learning(JSAI 2020)](https://www.jstage.jst.go.jp/article/jsaisigtwo/2021/FIN-026/2021_69/_article/-char/ja/)
 - [Stock Price Prediction Using Limit Order Book Data with Data Stratification and Multi-Phase Pre-Training(SIGFIN 2021)](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1K4ES205/_article/-char/ja/)
 
 ### Awards
+AAAI HCOMP2024 Best Demonstration Paper Award
+Issued by The Twelfth AAAI Conference on Human Computation and Crowdsourcing · Oct 2024
 
 ### Talks
 
