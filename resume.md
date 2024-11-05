@@ -32,7 +32,7 @@ Achievements include:
   - Experience in building marketing consultancy using computer vision applications, and personalized recommendation systems.
 
 - **Academic Research**
-  - Presented the Software Product at an Internatinal academic conference, receiving Best Demonstration Paper Award.
+  - Presented a Software Product at an Internatinal academic conference, receiving Best Demonstration Paper Award at AAAI HCOMP.
 
 - **Founder of a Tech Startup**
   - Capable of creating business plans, sales, recruiting, product strategy, organizational branding, and people management.
