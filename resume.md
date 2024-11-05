@@ -27,7 +27,7 @@ Achievements include:
 
 - **Software Development**
   - Over 3 years of experience in infrastructure, frontend, and backend development.
-  - Proficient in mobile development (Flutter), AI (Python, Tensorflow), and data analysis.
+  - Proficient in mobile development, AI (Python, Tensorflow), and data analysis.
   - Experience in leading Software development teams.
   - Experience in building marketing consultancy using computer vision applications, and personalized recommendation systems.
 
@@ -77,7 +77,7 @@ Master's Degree, The University of Tokyo, School of Engineering (Apr2019 ~ Mar20
 Bachelor's Degree, The University of Tokyo, Interdisciplinary Science (Apr2014 ~ Mar2019)
 
 ### Interests
-Human Computation, Crowdsourcing, Collective Intelligence, Social Computing, Computational Hummor
+Human Computation, Crowdsourcing, Collective Intelligence, Social Computing, Computational Humor
 
 ### Programming Languages
 
