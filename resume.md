@@ -105,7 +105,7 @@ Deep Learning, Human-Computer Interaction
 
   
 ### Publications
-- [BlitzMe: a Social Media Platform Combining Smile Recognition and Human Computation for Positive Mood Enhancement(AAAI HCOMP2024 Demonstration Track, Best Demonstration Paper Award)](https://www.humancomputation.com/assets/wip_2024/HCOMP_24_WIP_2.pdf)
+- [BlitzMe: A Social Media Platform Combining Smile Recognition and Human Computation for Positive Mood Enhancement(AAAI HCOMP2024 Demonstration Track, Best Demonstration Paper Award)](https://www.humancomputation.com/assets/wip_2024/HCOMP_24_WIP_2.pdf)
 - [Analysis of Value and Momentum Factors in Japanese Government Bond and Stock Index Using Machine Learning(JSAI 2020)](https://www.jstage.jst.go.jp/article/jsaisigtwo/2021/FIN-026/2021_69/_article/-char/ja/)
 - [Stock Price Prediction Using Limit Order Book Data with Data Stratification and Multi-Phase Pre-Training(SIGFIN 2021)](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_1K4ES205/_article/-char/ja/)
 
