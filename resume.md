@@ -26,14 +26,13 @@ Achievements include:
   - Collaborated with large teams of over 10 members, including engineers and designers, to solidify requirements, design, implement, launch, and grow products.
 
 - **Software Development**
-  - Over 5 years of experience in infrastructure, frontend, and backend development.
+  - Over 3 years of experience in infrastructure, frontend, and backend development.
   - Proficient in mobile development (Flutter), AI (Python, Tensorflow), and data analysis.
   - Experience in leading Software development teams.
   - Experience in building marketing consultancy using computer vision applications, and personalized recommendation systems.
 
 - **Academic Research**
-  - Specializes in the application of deep learning.
-  - Presented the BlitzMe app at an academic conference(demo track)
+  - Presented the Software Product at an Internatinal academic conference, receiving Best Demonstration Paper Award.
 
 - **Founder of a Tech Startup**
   - Capable of creating business plans, sales, recruiting, product strategy, organizational branding, and people management.
