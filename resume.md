@@ -11,14 +11,12 @@
 
 ## Summary
 
-With over 3 years of experience as a machine learning engineer and over 2 years as a CEO and product owner, I have expertise in requirements definition and design of software product, user experience research as well as building and managing global teams.
 
 Achievements include:
 
-- Implementing and backtesting academic papers, working at hedge fund and investment bank.
 - Product owner of [BlitzMe](https://blitzme-app.com/en/) as a Founder & CEO of a tech startup.
+- Presented a Software Product at an Internatinal academic conference, receiving Best Demonstration Paper Award at AAAI HCOMP.
 - Designing and implementing a recommendation engine for consumer app.
-- Writing and presenting demonstration papers at international Human-Computer Interaction conferences.
 
 ### Skills
 - **PO/PdM**
@@ -30,9 +28,6 @@ Achievements include:
   - Proficient in mobile development, AI (Python, Tensorflow), and data analysis.
   - Experience in leading Software development teams.
   - Experience in building marketing consultancy using computer vision applications, and personalized recommendation systems.
-
-- **Academic Research**
-  - Presented a Software Product at an Internatinal academic conference, receiving Best Demonstration Paper Award at AAAI HCOMP.
 
 - **Founder of a Tech Startup**
   - Capable of creating business plans, sales, recruiting, product strategy, organizational branding, and people management.
