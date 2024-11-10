@@ -72,7 +72,7 @@ Master's Degree, The University of Tokyo, School of Engineering (Apr2019 ~ Mar20
 Bachelor's Degree, The University of Tokyo, Interdisciplinary Science (Apr2014 ~ Mar2019)
 
 ### Interests
-Human Computation, Crowdsourcing, Collective Intelligence, Social Computing, Computational Humor
+Human Computation, Crowdsourcing, Collective Intelligence, Social Computing, Human-Computer Interaction
 
 ### Programming Languages
 
