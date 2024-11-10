@@ -15,7 +15,7 @@
 Achievements include:
 
 - Product owner of [BlitzMe](https://blitzme-app.com/en/) as a Founder & CEO of a tech startup.
-- Presented a Software Product at an Internatinal academic conference, receiving Best Demonstration Paper Award at AAAI HCOMP.
+- Presented a Software Product at an Internatinal academic conference AAAI HCOMP, receiving Best Demonstration Paper Award at AAAI HCOMP.
 - Designing and implementing a recommendation engine for consumer app.
 
 ### Skills
