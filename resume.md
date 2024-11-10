@@ -90,6 +90,8 @@ Human Computation, Crowdsourcing, Collective Intelligence, Social Computing, Hum
 
 #### Google Cloud
 - In use since 2022.
+- Associate Cloud Engineer
+- Proffesional Data Engineer
 
 ## About Myself
 
